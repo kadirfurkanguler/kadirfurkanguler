@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadir Furkan Güler</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hello guys! I'm a highly motivated Jr. Frontend Developer seeking to launch a career building web & mobile applications and other services etc. Currently I'am a computer engineering student in Turkey. I've been working on Frontend technologies for a one and half years. I'm currently looking for a Frontend developer opportunity that will allow me to work alongside an expert team of developers. Thereby helping to drive my career progression to more higher roles in the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadirfurkanguler&label=Profile%20views&color=0e75b6&style=flat" alt="kadirfurkanguler" /> </p>
 
@@ -20,4 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadirfurkanguler&show_icons=true&locale=en&layout=compact" alt="kadirfurkanguler" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirfurkanguler&show_icons=true&locale=en" alt="kadirfurkanguler" /></p>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
