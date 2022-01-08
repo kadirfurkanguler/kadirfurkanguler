@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kadir Furkan Güler</h1>
 <h3 align="center">Hello guys! I'm 21 year old, curious and innovative mobile and Web developer studying computer engineering. Also i have an opinion about backend.
 
-Among my goals is to learning php & nodejs and become a full stack developer.
-
-I'm currently a mobile developer at Pigasoft. I have made 4 commercial mobile applications so far and in the web area, i have made a news site using VueJs.
-
 I like solve algorithm problems, researching, watching documentary, camping and explore new space.
 
 I can speak and read intermediate level english.
