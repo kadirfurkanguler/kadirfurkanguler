@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kadir Furkan Güler</h1>
-<h3 align="center">Hello guys! I'm a highly motivated Jr. Frontend Developer seeking to launch a career building web & mobile applications and other services etc. Currently I'am a computer engineering student in Turkey. I've been working on Frontend technologies for a one and half years. I'm currently looking for a Frontend developer opportunity that will allow me to work alongside an expert team of developers. Thereby helping to drive my career progression to more higher roles in the future.</h3>
+<h3 align="center">Hello guys! I'm 21 year old, curious and innovative mobile and Web developer studying computer engineering. Also i have an opinion about backend.
+
+Among my goals is to learning php & nodejs and become a full stack developer.
+
+I'm currently a mobile developer at Pigasoft. I have made 4 commercial mobile applications so far and in the web area, i have made a news site using VueJs.
+
+I like solve algorithm problems, researching, watching documentary, camping and explore new space.
+
+I can speak and read intermediate level english.
+Technologies which i use : Html, Css, Bootstrap, JavaScript, Vue, React, React Native, C#, MySQL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadirfurkanguler&label=Profile%20views&color=0e75b6&style=flat" alt="kadirfurkanguler" /> </p>
 
