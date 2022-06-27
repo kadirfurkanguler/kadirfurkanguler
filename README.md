@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **kadirfurkanguler@gmail.com**
 
-- 📄 Know about my experiences [https://novoresume.com/file/pdf/resume/get/16563559211408fa1a4d0e4bd11ecb36387d53a23e495175r7pvkce6s7kedfx375u2depc3tlmuoAsxfhplheumd1qhmb7qh57qxwl481sw1g81oo4phec38b723bo1ll4c03o4884mqo5dx4kor9yoau1shoA8vcnik4k5r1tr8t3uztpgppohsbm9kvi7u12dqq51bwuf7k21v7of1efjeja4cemupdv1b6pf01kk91mqm](https://novoresume.com/file/pdf/resume/get/16563559211408fa1a4d0e4bd11ecb36387d53a23e495175r7pvkce6s7kedfx375u2depc3tlmuoAsxfhplheumd1qhmb7qh57qxwl481sw1g81oo4phec38b723bo1ll4c03o4884mqo5dx4kor9yoau1shoA8vcnik4k5r1tr8t3uztpgppohsbm9kvi7u12dqq51bwuf7k21v7of1efjeja4cemupdv1b6pf01kk91mqm)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1n2GdVuDEQ3iqg-xmx4uA3DN6gVbuLW-c/view?usp=sharing](https://drive.google.com/file/d/1n2GdVuDEQ3iqg-xmx4uA3DN6gVbuLW-c/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
