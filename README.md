@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on [Pigasoft](https://pigasoft.com/)<br><br>    🌱 I’m currently learning Swift<br><br>    💬 Ask me about React Native - Swift<br><br>    📫 How to reach me kadirfurkanguler@gmail.com<br><br>    📄 Know about my experiences https://drive.google.com/file/d/1wPfG8d-h1T3XYPPgpbYfEDcaR0eZMcln/view?usp=sharing<br><br>    📝 I regularly write articles on https://medium.com/@kadirfurkanguler
+ 🔭 I’m currently working on [Pigasoft](https://pigasoft.com/)<br><br>    🌱 I’m currently learning Swift<br><br>    💬 Ask me about React Native - Swift<br><br>    📫 How to reach me kadir@furkanguler.dev<br><br>    📄 Know about my experiences https://drive.google.com/file/d/1wPfG8d-h1T3XYPPgpbYfEDcaR0eZMcln/view?usp=sharing<br><br>    📝 I regularly write articles on https://medium.com/@kadirfurkanguler
 
 
 ## 🌐 Socials:
