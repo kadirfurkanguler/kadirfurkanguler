@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Kadir+Furkan!;" />
 </h1>
-###
+
 
 <p align="center">Solution-oriented React Native Developer with 4+ years of experience, lifelong learner, and adventurer with a professional background in software business strategy.<br>Enjoys development because of the satisfaction derived from overcoming challenges. Motivated by the opportunity that software provides to positively impact individuals and the world as a whole.</p>
 
