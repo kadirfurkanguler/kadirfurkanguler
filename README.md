@@ -5,7 +5,7 @@
 
 <p align="center">Solution-oriented React Native Developer with 4+ years of experience, lifelong learner, and adventurer with a professional background in software business strategy.<br>Enjoys development because of the satisfaction derived from overcoming challenges. Motivated by the opportunity that software provides to positively impact individuals and the world as a whole.</p>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kadirfurkanguler&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
