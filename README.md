@@ -5,16 +5,9 @@
 
 ###
 
-<p align="center">Solution-oriented React Native Developer with 4+ years of experience, lifelong learner, and adventurer with a professional background in software business strategy.<br>Enjoys development because of the satisfaction derived from overcoming challenges. Motivated by the opportunity that software provides to positively impact individuals and the world as a whole.</p>
+<p align="center">Solution-oriented React Native Developer with 5+ years ƒ5+of experience, lifelong learner, and adventurer with a professional background in software business strategy.<br>Enjoys development because of the satisfaction derived from overcoming challenges. Motivated by the opportunity that software provides to positively impact individuals and the world as a whole.</p>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kadirfurkanguler&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kadirfurkanguler&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -51,14 +44,5 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDJvam51N2Rxd3ZlMnVpdm02YWdxazZnMjE3OGJiMng0N2k4anJueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"  />
-</div>
 
-###
-
-<img src="https://raw.githubusercontent.com/kadirfurkanguler/kadirfurkanguler/output/snake.svg" alt="Snake animation" />
-
-###
